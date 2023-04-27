@@ -1,0 +1,42 @@
+/* * {
+    border: 1px solid red;
+} */
+
+h1 {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+}
+
+.top-container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.middle-container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.bottom-container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+img{
+    width: 400px;
+    height: 350px;
+    padding: 20px;
+}
+
+button {
+    width: 400px;
+    height: 50px;
+    padding: 10px;
+}
